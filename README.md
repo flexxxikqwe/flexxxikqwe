@@ -1,16 +1,45 @@
-## Hi there 👋
+Junior Frontend / Fullstack разработчик.
 
-<!--
-**flexxxikqwe/flexxxikqwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю web-приложения на TypeScript, React, Vue/Nuxt и Node.js.  
+Мне интересны продуктовые интерфейсы, адаптивная вёрстка, бизнес-логика и AI-функции в реальных пользовательских сценариях.
 
-Here are some ideas to get you started:
+## Стек
+**Frontend:** TypeScript, React, Next.js, Vue 3, Nuxt, Tailwind CSS  
+**Backend:** Node.js, Express  
+**Базы данных:** SQLite, Supabase  
+**Дополнительно:** REST API, AI integrations, responsive UI, UX-focused development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Проекты
+
+### ZenPulse
+AI-powered приложение для медитаций с адаптивным интерфейсом, улучшенным пользовательским сценарием и акцентом на UX.  
+**Стек:** React, TypeScript, Tailwind CSS, Framer Motion  
+**Демо:** https://zen-pulse-theta.vercel.app  
+**Код:** https://github.com/flexxxikqwe/ZenPulse
+
+### Repair Requests Service
+Сервис для управления заявками на ремонт с ролевой моделью, маршрутизацией действий пользователей и защитой от конфликтов при параллельной работе с заявками.  
+**Стек:** Node.js, Express, SQLite, Tailwind CSS, Jest  
+**Демо:** https://repair-requests-service-production.up.railway.app  
+**Код:** https://github.com/flexxxikqwe/Repair-Requests-Service
+
+### AI MVP Guide
+Инструмент для упаковки и структурирования MVP-идей с использованием AI.  
+**Стек:** TypeScript, AI features, web app architecture  
+**Демо:** https://replit.com/@xxxflexxxxxx/AI-MVP-Guide  
+**Код:** https://github.com/flexxxikqwe/AI-MVP-Guide
+
+## Что я делаю
+- разрабатываю адаптивные интерфейсы для web-приложений
+- собираю frontend на React / Next.js и Vue / Nuxt
+- реализую fullstack-приложения с бизнес-логикой и CRUD-сценариями
+- интегрирую AI-функции в продуктовые сценарии
+- улучшаю UX, структуру интерфейсов и оформление проектов
+
+## Рассматриваю
+- Junior Frontend Developer
+- Junior Fullstack Developer
+- Internship / Trainee
+
+## Контакты
+- Telegram: https://t.me/cxldforeverr
