@@ -33,6 +33,7 @@ AI-powered веб-приложение для медитаций с акцент
 ### ClientFlow
 CRM-style приложение для работы с лидами и клиентским флоу. Сейчас активно дорабатываю проект и готовлю его к более сильной публичной упаковке.  
 **Стек:** Next.js, TypeScript, Tailwind CSS, Supabase  
+**Демо:** https://client-flow-mu-seven.vercel.app/
 **Код:** https://github.com/flexxxikqwe/ClientFlow
 
 ## Что я делаю
