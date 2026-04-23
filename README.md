@@ -1,4 +1,4 @@
-Junior Frontend / Fullstack разработчик.
+Junior+/Middle | Frontend / Fullstack разработчик.
 
 Разрабатываю web-приложения на TypeScript, React, Vue/Nuxt и Node.js.  
 Фокусируюсь на адаптивных интерфейсах, продуктовой логике, AI-функциях и проектах, которые можно показать как реальные рабочие кейсы.
